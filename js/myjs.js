@@ -43,7 +43,7 @@ function cost(){
    a =  document.getElementById("em1").value;
    b =  document.getElementById("num1").value;
    var data = {
-    "project_name": "Prestige Elysian",
+    "project_name": "Concorde Auriga",
     "client_name": "null",
     "client_mail_id": a,
     "client_phone_number": b,
@@ -86,7 +86,7 @@ function bro(){
    a =  document.getElementById("em").value;
    b =  document.getElementById("num").value;
    var data = {
-    "project_name": "Prestige Elysian",
+    "project_name": "Concorde Auriga",
     "client_name": "null",
     "client_mail_id": a,
     "client_phone_number": b,
@@ -133,7 +133,7 @@ function bro1(){
    b =  document.getElementById("em4").value;
    c =  document.getElementById("num3").value;
    var data = {
-    "project_name": "Prestige Elysian",
+    "project_name": "Concorde Auriga",
     "client_name": a,
     "client_mail_id": b,
     "client_phone_number": c,
@@ -178,7 +178,7 @@ function bro3(){
    b =  document.getElementById("em6").value;
    c =  document.getElementById("num4").value;
    var data = {
-    "project_name": "Prestige Elysian",
+    "project_name": "Concorde Auriga",
     "client_name": a,
     "client_mail_id": b,
     "client_phone_number": c,
@@ -226,7 +226,7 @@ function contactUs(){
     g=document.getElementById("cc").value;
     h=document.getElementById("dd").value;
     var data = {
-      "project_name": "Prestige Elysian",
+      "project_name": "Concorde Auriga",
       "client_name": e,
       "client_mail_id": f,
       "client_phone_number": g,
