@@ -50,6 +50,9 @@ hr {
   background-image: -webkit-linear-gradient(4deg, #2caab3 0%, #2c8cb3 100%);
   background-image: -ms-linear-gradient(4deg, #2caab3 0%, #2c8cb3 100%);
 }
+.navbar-default .navbar-toggle {
+  border-color: green;
+}
 .section-header {
   margin-bottom: 50px;
 }
